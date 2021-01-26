@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Sun glasses",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/products-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Fashion glasses",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/products-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Round glasses",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/products-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Cat eye glasses",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/products-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "black glasses",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/products-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "reading glasses",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/products-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "leopard skin glasses",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/products-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "round white sun glasses",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/products-8.jpg" } } }
+      }
+    }
+  ]
+}
